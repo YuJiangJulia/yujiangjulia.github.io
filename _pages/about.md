@@ -17,6 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+---
+title: "About Me"
+permalink: /about/
+toc: true
+profile: true
+redirect_from:
+  - /about.html
+---
+
+# About Me
 I am currently a sophomore at Sichuan Agricultural University, majoring in Data Science and Big Data Technology. Additionally, I am pursuing a minor in finance.
 
 My research interests include data analysis, machine learning, and artificial intelligence. I have experience in programming languages such as Python, C, C++, and MATLAB, and I am proficient in using frameworks like PyTorch and TensorFlow.
