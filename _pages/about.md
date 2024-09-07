@@ -26,6 +26,7 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 # 🔥 News
 - *2024.08.27*: &nbsp;🎉🎉 My paper titled "Gastrointestinal image stitching based on improved unsupervised algorithm" was accepted for publication, where I contributed as the third author.
 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -40,6 +41,7 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 </div>
 </div>
 
+
 # 🎖 Honors and Awards
 - *2023*: Second Prize, Sichuan College Students Intelligent Agricultural Equipment Innovation Design Competition.
 - *2023*: Second Prize, Red Special Category, 17th "Challenge Cup" Sichuan Provincial Extracurricular Academic Science and Technology Works Competition for College Students.
@@ -48,12 +50,14 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 - *2023*: Second Prize, Big Data Special Category, 8th Internet of Things Application Innovation Competition.
 - *2023*: Silver Prize, Undergraduate Creative Group, Higher Education Division, "Internet+" College Students' Innovation and Entrepreneurship Competition, Sichuan Agricultural University.
 
+
 # 📖 Education
 - *Sep 2022 - Present*: Sichuan Agricultural University, Ya'an, Sichuan, Sophomore in Data Science and Big Data Technology.
   - GPA: 90.28 / 100
   - Related Courses: Data structure, Python, Machine learning, Artificial intelligence, Data analysis, Operations Research
 - *Sep 2023 - Present*: Sichuan Agricultural University, Chengdu, Sichuan, Freshman in finance (minor).
   - Related Courses: Finance, Economics, Statistics, Financial management, Risk management
+
 
 # 💻 Internships
 - *Jan 2024*: Chengdu Shuangliu Branch of China CITIC Bank Co., LTD, Intern
