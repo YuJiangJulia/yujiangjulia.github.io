@@ -51,19 +51,24 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 
   <div class='paper-box'>
   <div class='paper-box-image'>
-  <div><div class="badge">In Progress</div><img src='images/500x300.png' alt="Student Psychological Assessment System" width="100%"></div>
+    <div>
+      <div class="badge">In Progress</div>
+      <img src='images/image.png' alt="Student Psychological Assessment System" width="100%">
+    </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  
-  **Description**: This project develops a psychological assessment system for students through cloud-edge collaboration and intelligent data analysis methods.  
-  **My Contribution**:
-  - Developed a multi-head attention mechanism for text sentiment analysis.
-  - Designed a Transformer-based audio processing module for emotion detection.
-  - Integrated LMF for multimodal feature fusion.
-  
-  **Technologies Used**: Python, PyTorch, Transformer, LMF, Att-BiLSTM
+    **Student Psychological Assessment System Based on CloudEdge Collaboration**  
+    *Mar 2023 - Present*  
+    **Description**: This project develops a psychological assessment system for students through cloud-edge collaboration and intelligent data analysis methods.  
+    **My Contribution**:
+    - Developed a multi-head attention mechanism for text sentiment analysis.
+    - Designed a Transformer-based audio processing module for emotion detection.
+    - Integrated LMF for multimodal feature fusion.
+    
+    **Technologies Used**: Python, PyTorch, Transformer, LMF, Att-BiLSTM
   </div>
-  </div>
+</div>
+
 
 
 
