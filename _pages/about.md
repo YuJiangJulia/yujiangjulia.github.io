@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yu Jiang's Personal Website"
-excerpt: "Welcome to my personal academic website！！！"
+excerpt: "Welcome to my personal academic website！！！~"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,7 @@ I am currently a junior at Sichuan Agricultural University, majoring in Data Sci
 
 My research focuses on the application of big data and machine learning in sentiment analysis, healthcare, and agriculture. Currently, I am particularly interested in sentiment-related applications. I have strong experience in programming languages such as Python, C++, and MATLAB, and I am proficient in using frameworks like PyTorch and TensorFlow to develop and deploy machine learning models.
 
-I have published papers with a total of <a href='https://scholar.google.com.hk/citations?user=xt7Zx4IAAAAJ'>Google Scholar citations</a>. You can also view my Google Scholar profile using this badge: <a href='https://scholar.google.com.hk/citations?user=xt7Zx4IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published papers with a total of <a href='https://scholar.google.com.hk/citations?user=xt7Zx4IAAAAJ'>Google Scholar citations</a>！
 
 
 
