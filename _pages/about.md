@@ -31,7 +31,6 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,27 +46,25 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 
 
 # 🔬 Research Projects
-
 - **Student Psychological Assessment System Based on CloudEdge Collaboration**  
   *Mar 2023 - Present*  
 
   <div class='paper-box'>
   <div class='paper-box-image'>
-  <div><div class="badge">In Progress</div><img src='images/image.png' alt="Student Psychological Assessment System" width="100%"></div>
+  <div><div class="badge">In Progress</div><img src='images/500x300.png' alt="Student Psychological Assessment System" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
   
-  Description: This project aims to develop a psychological assessment system for students by utilizing cloud-edge collaboration and intelligent data analysis methods.  
-  *My Contribution*:
-  - Developed a **multi-head attention mechanism** for text sentiment analysis to improve emotional recognition, focusing on identifying keywords and phrases that express emotions.
-  - Designed an advanced **Transformer-based audio processing module** to extract emotional features from audio inputs, enhancing the system's ability to detect emotional cues from multiple modalities, including text and audio.
-  - Implemented an **Att-BiLSTM-based text sentiment feature extraction module** that boosts the model's sensitivity to emotional information in texts, leading to a more accurate classification of sentiments into positive, negative, or neutral categories.
-  - Integrated a **modified LMF multimodal feature fusion method**, which effectively combines text and audio emotional features to enhance the overall accuracy of the psychological predictions.
-  - Conducted comparative performance analysis between the developed model and baseline models, identifying the key reasons for performance differences and improving the effectiveness of the system in identifying student mental health conditions.
+  **Description**: This project develops a psychological assessment system for students through cloud-edge collaboration and intelligent data analysis methods.  
+  **My Contribution**:
+  - Developed a multi-head attention mechanism for text sentiment analysis.
+  - Designed a Transformer-based audio processing module for emotion detection.
+  - Integrated LMF for multimodal feature fusion.
+  
+  **Technologies Used**: Python, PyTorch, Transformer, LMF, Att-BiLSTM
+  </div>
+  </div>
 
-  **Technologies Used**: Python, PyTorch, Transformer, LMF (Low-rank Multimodal Fusion), Att-BiLSTM
-  </div>
-  </div>
 
 
 
