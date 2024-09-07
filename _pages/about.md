@@ -46,7 +46,7 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 
 
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2023*: Second Prize, Sichuan College Students Intelligent Agricultural Equipment Innovation Design Competition.
 - *2023*: Second Prize, Red Special Category, 17th "Challenge Cup" Sichuan Provincial Extracurricular Academic Science and Technology Works Competition for College Students.
 - *2023*: Third Prize, Sichuan Provincial Undergraduate Group, Sichuan College Student Computer Design Competition and 16th China National College Student Computer Design Competition.
