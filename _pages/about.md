@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yu Jiang's Personal Website"
-excerpt: "Welcome to my personal academic websi"
+excerpt: "Welcome to my personal academic website."
 author_profile: true
 redirect_from: 
   - /about/
