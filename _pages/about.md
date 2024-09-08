@@ -25,10 +25,14 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 
 
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - *2024.08.27*: &nbsp;🎉🎉 My paper titled "Gastrointestinal image stitching based on improved unsupervised algorithm" was accepted for publication, where I contributed as the third author.
 
 
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -44,6 +48,8 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 </div>
 
 
+
+<span class='anchor' id='research'></span>
 
 # 🔬 Research Projects
 - **Student Psychological Assessment System Based on CloudEdge Collaboration**  
@@ -72,6 +78,7 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 
 
 
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🥇 Honors and Awards
 - *2023*: Second Prize, Sichuan College Students Intelligent Agricultural Equipment Innovation Design Competition.
@@ -83,6 +90,8 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 
 
 
+<span class='anchor' id='educations'></span>
+
 # 📖 Education
 - *Sep 2022 - Present*: Sichuan Agricultural University, Ya'an, Sichuan, Sophomore in Data Science and Big Data Technology.
   - GPA: 90.28 / 100
@@ -91,6 +100,8 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
   - Related Courses: Finance, Economics, Statistics, Financial management, Risk management
 
 
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 - *Jan 2024*: Chengdu Shuangliu Branch of China CITIC Bank Co., LTD, Intern
@@ -102,4 +113,3 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
   - Applied backend development techniques using Java to implement various projects.
   - Developed and implemented predictive models for data forecasting.
   - Worked collaboratively with the team to optimize cloud-based solutions for data processing.
-
