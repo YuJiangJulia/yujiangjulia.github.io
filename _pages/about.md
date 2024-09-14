@@ -59,7 +59,7 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
   <div class='paper-box-image'>
     <div>
       <div class="badge">In Progress</div>
-      <img src='images/500x300.png' alt="Student Psychological Assessment System" width="100%">
+      <img src='images/云护青心.png' alt="Student Psychological Assessment System" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
