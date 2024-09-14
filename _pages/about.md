@@ -35,7 +35,7 @@ I have published papers with a total of <a href='https://scholar.google.com.hk/c
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='images/云护青心.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/云护青心.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gastrointestinal image stitching based on improved unsupervised algorithm](https://example.com)
