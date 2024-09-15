@@ -74,11 +74,11 @@ My research focuses on the application of big data and machine learning in senti
   **Technologies Used**: Python, PyTorch, Transformer, LMF, Att-BiLSTM
   </div>
 </div>
+<a id="medical-visualization"></a> 
 
 
 - **Medical Visualization System Based on Computer Vision**
-<a id="medical-visualization"></a> 
-*Mar 2023 - Present*
+  *Mar 2023 - Present*
 
 <div class='paper-box'>
   <div class='paper-box-image'>
