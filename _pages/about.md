@@ -28,7 +28,7 @@ My research focuses on the application of big data and machine learning in senti
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.08.27*: &nbsp;🎉🎉 My paper titled "Gastrointestinal image stitching based on improved unsupervised algorithm" was accepted for publication, where I contributed as the third author.
+- *2024.08.27*: &nbsp;🎉🎉 My paper titled "Gastrointestinal image stitching based on improved unsupervised algorithm" was accepted for publication(currently in press), where I contributed as the third author！！！
 
 
 
