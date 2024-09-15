@@ -91,9 +91,9 @@ My research focuses on the application of big data and machine learning in senti
   **Description**: This project utilizes advanced deep learning and NERF 3D reconstruction to develop an intelligent system that enhances the efficiency and accuracy of medical image processing and diagnosis.
 
   **My Contribution**:
-  - Leveraged advanced deep learning techniques, focusing on unsupervised learning methods and NERF 3D reconstruction technology.
-  - Engineered a solution to process vast amounts of medical image data using unsupervised learning.
-  - Achieved significant reductions in data annotation costs and improved the generalization capabilities of the model.
+  - Applied deep learning with NERF 3D reconstruction for medical imaging.
+  - Developed an unsupervised solution for processing large medical datasets.
+  - Reduced annotation costs and enhanced model generalization.
 
   **Technologies Used**: Python, PyTorch, NERF, Unsupervised Learning, Deep Learning
   </div>
