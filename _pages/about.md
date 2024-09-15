@@ -35,7 +35,7 @@ Here is my <a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">CV (PDF)</
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='images/胃肠镜.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Press</div><img src='images/胃肠镜.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gastrointestinal image stitching based on improved unsupervised algorithm](https://example.com)
