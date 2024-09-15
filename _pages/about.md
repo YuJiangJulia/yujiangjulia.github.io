@@ -42,9 +42,7 @@ My research focuses on the application of big data and machine learning in senti
 
 **Yu Jiang**, Third Author
 
-<!--[**Project**](#medical-visualization) <strong><span class='show_paper_citations' data='xt7Zx4IAAAAJ:someid'></span></strong>
-- Submitted to "PLOS ONE", 2024.-->
-<a href="#medical-visualization">**Project**</a> <!-- 使用锚点跳转 --><strong><span class='show_paper_citations' data='xt7Zx4IAAAAJ:someid'></span></strong>
+[**Project**](#medical-visualization) <strong><span class='show_paper_citations' data='xt7Zx4IAAAAJ:someid'></span></strong>
 - Submitted to "PLOS ONE", 2024.
 </div>
 </div>
@@ -78,10 +76,10 @@ My research focuses on the application of big data and machine learning in senti
 </div>
 
 
+<a id="medical-visualization"></a> 
 - **Medical Visualization System Based on Computer Vision**  
 *Mar 2023 - Present*
 
-<a id="medical-visualization"></a> <!-- 这是锚点 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
