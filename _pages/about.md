@@ -22,7 +22,7 @@ Hello there！I am currently a junior at Sichuan Agricultural University, majori
 My research focuses on the application of big data and machine learning in sentiment analysis, healthcare, and agriculture. Currently, I am particularly interested in sentiment-related applications, with a focus on exploring the relationship between artificial intelligence and psychological as well as societal factors. I have strong experience in programming languages such as Python, C++, and MATLAB, and I am proficient in using frameworks like PyTorch and TensorFlow to develop and deploy machine learning models.
 
 <!--I have published papers with a total of <a href='https://scholar.google.com.hk/citations?user=xt7Zx4IAAAAJ'>Google Scholar citations</a>！ -->
-
+Here is my CV (PDF)!<a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">
 
 
 <span class='anchor' id='news'></span>
