@@ -101,26 +101,26 @@ Here is my <a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">CV (PDF)</
 
 
 - **FieldPestNet: High-Accuracy Insect Recognition in Agricultural Fields**  
-  *Mar 2024 - Present*
+  *Mar 2024 - Present*  
 
 <div class='paper-box'>
-    <div class='paper-box-image'>
-        <div class='badge'>In Progress</div>
-        <img src='images/昆虫.png' alt='FieldPestNet System' width='100%'>
+  <div class='paper-box-image'>
+    <div>
+      <div class='badge'>In Progress</div>
+      <img src='images/昆虫.png' alt='Medical Visualization System' width='100%'>
     </div>
-</div>
-<div class='paper-box-text' markdown='1'>
+  </div>
+  <div class='paper-box-text' markdown='1'>
+    
+  **Description**: This project applies machine learning and deep learning techniques to improve insect recognition accuracy in agricultural fields, offering technological support for precision farming.
 
-**Description**: This project applies machine learning and deep learning techniques to improve insect recognition accuracy in agricultural fields, offering technological support for precision farming.
+  **My Contribution**:
+  - Experimented with various machine learning methods to enhance insect recognition accuracy.
+  - Applied semi-supervised and unsupervised learning techniques to reduce data annotation requirements.
+  - Improved training efficiency and model scalability.
 
-**My Contribution**:
-- Experimented with various machine learning methods to enhance insect recognition accuracy.
-- Applied semi-supervised and unsupervised learning techniques to reduce data annotation requirements.
-- Improved training efficiency and model scalability.
-
-**Technologies Used**: Python, PyTorch, Semi-supervised Learning, Unsupervised Learning, Deep Learning
-
-</div>
+  **Technologies Used**: Python, PyTorch, Semi-supervised Learning, Unsupervised Learning, Deep Learning
+  </div>
 </div>
 
 
