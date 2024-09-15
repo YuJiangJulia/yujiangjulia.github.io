@@ -88,7 +88,7 @@ My research focuses on the application of big data and machine learning in senti
   </div>
   <div class='paper-box-text' markdown='1'>
     
-  **Description**: This system leverages advanced deep learning techniques, focusing on unsupervised learning methods and NERF 3D reconstruction technology, to develop an intelligent assisted medical system. The goal is to enhance the efficiency and accuracy of medical image processing, analysis, and diagnosis.
+  **Description**: This project utilizes advanced deep learning and NERF 3D reconstruction to develop an intelligent system that enhances the efficiency and accuracy of medical image processing and diagnosis.
 
   **My Contribution**:
   - Leveraged advanced deep learning techniques, focusing on unsupervised learning methods and NERF 3D reconstruction technology.
