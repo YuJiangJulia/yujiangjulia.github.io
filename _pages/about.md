@@ -70,11 +70,10 @@ My research focuses on the application of big data and machine learning in senti
   - Developed a multi-head attention mechanism for text sentiment analysis.
   - Designed a Transformer-based audio processing module for emotion detection.
   - Integrated LMF for multimodal feature fusion.
-  
+  <a id="medical-visualization"></a> 
   **Technologies Used**: Python, PyTorch, Transformer, LMF, Att-BiLSTM
   </div>
 </div>
-<a id="medical-visualization"></a> 
 
 
 - **Medical Visualization System Based on Computer Vision**  
