@@ -70,7 +70,8 @@ Here is my <a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">CV (PDF)</
   - Developed a multi-head attention mechanism for text sentiment analysis.
   - Designed a Transformer-based audio processing module for emotion detection.
   - Integrated LMF for multimodal feature fusion.
-  <a id="medical-visualization"></a> 
+  <a id="medical-visualization"></a>
+
   **Technologies Used**: Python, PyTorch, Transformer, LMF, Att-BiLSTM
   </div>
 </div>
