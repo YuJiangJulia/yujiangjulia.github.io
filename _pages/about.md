@@ -76,10 +76,8 @@ My research focuses on the application of big data and machine learning in senti
 </div>
 
 
+- **Medical Visualization System Based on Computer Vision**
 <a id="medical-visualization"></a> 
-
-
-- **Medical Visualization System Based on Computer Vision**  
 *Mar 2023 - Present*
 
 <div class='paper-box'>
