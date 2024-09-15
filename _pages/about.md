@@ -76,6 +76,30 @@ My research focuses on the application of big data and machine learning in senti
 </div>
 
 
+- **Medical Visualization System Based on Computer Vision**  
+*Mar 2023 - Present*
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class='badge'>In Progress</div>
+      <img src='images/胃肠镜.png' alt='Medical Visualization System' width='100%'>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown='1'>
+    
+  **Description**: This system leverages advanced deep learning techniques, focusing on unsupervised learning methods and NERF 3D reconstruction technology, to develop an intelligent assisted medical system. The goal is to enhance the efficiency and accuracy of medical image processing, analysis, and diagnosis.
+
+  **My Contribution**:
+  - Leveraged advanced deep learning techniques, focusing on unsupervised learning methods and NERF 3D reconstruction technology.
+  - Engineered a solution to process vast amounts of medical image data using unsupervised learning.
+  - Achieved significant reductions in data annotation costs and improved the generalization capabilities of the model.
+
+  **Technologies Used**: Python, PyTorch, NERF, Unsupervised Learning, Deep Learning
+  </div>
+</div>
+
+
 
 
 <span class='anchor' id='honors-and-awards'></span>
