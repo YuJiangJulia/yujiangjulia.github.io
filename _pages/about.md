@@ -28,7 +28,7 @@ Here is my <a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">CV (PDF)</
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.08.27*: &nbsp;🎉🎉 My paper titled "Gastrointestinal image stitching based on improved unsupervised algorithm" was accepted for publication(currently in press), where I contributed as the third author！！！
+- *2024.09.*: &nbsp;🎉🎉 My paper titled "Gastrointestinal image stitching based on improved unsupervised algorithm" was published in **PLOS ONE**, where I contributed as the second author!!!
 
 
 
