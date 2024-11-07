@@ -142,10 +142,10 @@ Here is my <a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">CV (PDF)</
 <span class='anchor' id='educations'></span>
 
 # 📖 Education
-- *Sep 2022 - Present*: Sichuan Agricultural University, Ya'an, Sichuan, Sophomore in Data Science and Big Data Technology.
+- *Sep 2022 - Present*: Sichuan Agricultural University, Ya'an, Sichuan, Junior in Data Science and Big Data Technology.
   - GPA: 90.28 / 100
   - Related Courses: Data structure, Python, Machine learning, Artificial intelligence, Data analysis, Operations Research
-- *Sep 2023 - Present*: Sichuan Agricultural University, Chengdu, Sichuan, Sophomore in finance (minor).
+- *Sep 2023 - Present*: Sichuan Agricultural University, Chengdu, Sichuan, Sophomore in finance (Sophomore).
   - Related Courses: Finance, Economics, Statistics, Financial management, Risk management
 
 
