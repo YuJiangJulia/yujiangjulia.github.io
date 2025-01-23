@@ -130,10 +130,10 @@ Here is my <a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">CV (PDF)</
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🥇 Honors and Awards
-### Research Grants:
+##Research Grants:
 - Sichuan University Students Innovation and Entrepreneurship Project
 - University-level Student Research Interest Project
-### Achievements:
+##Achievements:
 - **Second Prize**: Sichuan College Students Intelligent Agricultural Equipment Innovation Design Competition
 - **Second Prize** (Red Special Category): 17th "Challenge Cup" Sichuan Provincial Extracurricular Academic Science and Technology Works Competition for College Students
 - **Third Prize**: Sichuan Provincial Undergraduate Group, Sichuan College Student Computer Design Competition and 16th China National College Student Computer Design Competition
