@@ -130,12 +130,16 @@ Here is my <a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">CV (PDF)</
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🥇 Honors and Awards
-- *2023*: Second Prize, Sichuan College Students Intelligent Agricultural Equipment Innovation Design Competition.
-- *2023*: Second Prize, Red Special Category, 17th "Challenge Cup" Sichuan Provincial Extracurricular Academic Science and Technology Works Competition for College Students.
-- *2023*: Third Prize, Sichuan Provincial Undergraduate Group, Sichuan College Student Computer Design Competition and 16th China National College Student Computer Design Competition.
-- *2023*: Outstanding Student, University Level.
-- *2023*: Second Prize, Big Data Special Category, 8th Internet of Things Application Innovation Competition.
-- *2023*: Silver Prize, Undergraduate Creative Group, Higher Education Division, "Internet+" College Students' Innovation and Entrepreneurship Competition, Sichuan Agricultural University.
+-  Research Grants:
+-  Sichuan university students innovation and entrepreneurship project            
+-  University-level university student research interest project
+-  Achievements:
+-  Second Prize, Sichuan College Students Intelligent Agricultural Equipment Innovation Design Competition.
+-  Second Prize, Red Special Category, 17th "Challenge Cup" Sichuan Provincial Extracurricular Academic Science and Technology Works Competition for College Students.
+-  Third Prize, Sichuan Provincial Undergraduate Group, Sichuan College Student Computer Design Competition and 16th China National College Student Computer Design Competition.
+-  Outstanding Student, University Level.
+-  Second Prize, Big Data Special Category, 8th Internet of Things Application Innovation Competition.
+-  Silver Prize, Undergraduate Creative Group, Higher Education Division, "Internet+" College Students' Innovation and Entrepreneurship Competition, Sichuan Agricultural University.
 
 
 
@@ -143,7 +147,7 @@ Here is my <a href="/assets/YuJiang_CV.pdf" download="YuJiang_CV.pdf">CV (PDF)</
 
 # 📖 Education
 - *Sep 2022 - Present*: Sichuan Agricultural University, Ya'an, Sichuan, Junior in Data Science and Big Data Technology.
-  - GPA: 90.28 / 100
+  - GPA: 90.95 / 100
   - Related Courses: Data structure, Python, Machine learning, Artificial intelligence, Data analysis, Operations Research
 - *Sep 2023 - Present*: Sichuan Agricultural University, Chengdu, Sichuan, Sophomore in finance (minor).
   - Related Courses: Finance, Economics, Statistics, Financial management, Risk management
